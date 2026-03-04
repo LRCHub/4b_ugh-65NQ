@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "bloodline",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-04T09:11:37.640871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bloodline",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/01_Bloodline_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bloodline",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/02_Bloodline_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "bloodline",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/03_bloodline_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Future Bloodline",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/04_Future_Bloodline_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bloodline",
+      "artist": "Fallulah",
+      "has_synced": true,
+      "path": "select/05_Bloodline_Fallulah.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bloodline Anthem",
+      "artist": "DMX",
+      "has_synced": true,
+      "path": "select/06_Bloodline_Anthem_DMX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bloodline feat. Tomas Høffding",
+      "artist": "Kölsch",
+      "has_synced": false,
+      "path": "select/07_Bloodline_feat._Tomas_Høffding_Kölsch.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bloodline",
+      "artist": "Aephanemer",
+      "has_synced": false,
+      "path": "select/08_Bloodline_Aephanemer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bloodline (Remastered / Instrumental)",
+      "artist": "Aephanemer",
+      "has_synced": true,
+      "path": "select/09_Bloodline_(Remastered___Instrumental)_Aephanemer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "bloodline",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/10_bloodline_Ariana_Grande.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bloodline",
+      "artist": "Sam Tompkins",
+      "has_synced": true,
+      "path": "select/11_Bloodline_Sam_Tompkins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bloodline",
+      "artist": "Bury Tomorrow",
+      "has_synced": true,
+      "path": "select/12_Bloodline_Bury_Tomorrow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bloodline",
+      "artist": "アリアナ・グランデ",
+      "has_synced": false,
+      "path": "select/pl_01_bloodline_アリアナ・グランデ.txt"
+    }
+  ]
+}
